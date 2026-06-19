@@ -38,7 +38,7 @@ export default function BootScreen() {
   }
 
   return (
-    <div id="bootScreen" className="boot-screen">
+    <div id="bootScreen" className={`boot-screen${fadeOut ? ' fade-out' : ''}`} onClick={skipBoot}>
         <div className="boot-content">
             <div className="boot-header">
                 <pre className="ascii-art">
