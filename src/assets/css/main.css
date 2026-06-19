@@ -199,7 +199,8 @@ nav {
 }
 
 .nav-content {
-    max-width: 1200px;
+    max-width: 1600px;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -257,7 +258,7 @@ h1 {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    padding: 40px;
+    padding: 20px 0; /* Changed from 40px */
 }
 
 .subtitle {
@@ -361,7 +362,7 @@ h1 {
 
 section {
     padding: 5rem 2rem;
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 0 auto;
 }
 
@@ -369,8 +370,8 @@ h2 {
     font-size: 2.5rem;
     margin-bottom: 3rem;
     position: relative;
-    display: inline-block;
-    text-align: end;
+    display: block; /* Changed from inline-block */
+    text-align: left; /* Changed from end */
 }
 h2::before {
     content: '#';
@@ -471,10 +472,11 @@ h2::after {
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 0 30px rgba(0, 255, 140, 0.2);
-    width: 500px;
-    height: 600px;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    min-height: 400px;
 }
-
 .code-header {
     background: rgba(0, 0, 0, 0.3);
     padding: 0.8rem 1rem;
@@ -738,11 +740,11 @@ footer .signature {
     gap: 10px;
 }
 .skills-grid {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 30px;
 }
+
 
 .skill-category {
     background: rgba(26, 26, 26, 0.8);
