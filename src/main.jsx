@@ -13,7 +13,7 @@ import Contact from './views/contact.jsx';
 import Footer from './views/footer.jsx';
 import InitialWindow from './views/InitialWindow.jsx';
 import BootScreen from './views/bootScreen.jsx'
-import useScrollAnimations from './hooks/useScrollAnimations.js'
+import useScrollAnimations from './hooks/useScrollAnimations.jsx'
 
 function Root() {
   useScrollAnimations()
