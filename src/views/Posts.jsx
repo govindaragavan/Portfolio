@@ -6,19 +6,19 @@ export default function Posts() {
         <h2>Latest Blog Posts</h2>
                 <div className="contact-container">
                     <div className="contact-grid">
-                        <div className="contact-item fade-in">
+                        <div className="post-item fade-in">
                             <h3>IDC WriteUps</h3>
                             <a href="https://github.com/govindaragavan/IDC-WriteUps-COPS">IDC-WriteUps-COPS</a>
                         </div>
         
-                        <div className="contact-item fade-in" style={{animationDelay : 0.1}}>
+                        <div className="post-item fade-in" style={{animationDelay : 0.1}}>
                             <h3>Natas WriteUps</h3>
                             <a href="https://github.com/govindaragavan" target="_blank">OTW Natas Solutions</a>
                         </div>
-                                <div className="contact-item fade-in" style={{animationDelay : 0.1}}>
+                                <div className="post-item fade-in" style={{animationDelay : 0.1}}>
                             <h3>OTW WriteUps</h3>
                             <a href="https://github.com/govindaragavan" target="_blank">OTW Solutions</a>
-                        </div>                        <div className="contact-item fade-in" style={{animationDelay : 0.1}}>
+                        </div>                        <div className="post-item fade-in" style={{animationDelay : 0.1}}>
                             <h3>PortSwigger Labs</h3>
                             <a href="https://github.com/govindaragavan" target="_blank">PortSwigger Labs WriteUps</a>
                         </div>
