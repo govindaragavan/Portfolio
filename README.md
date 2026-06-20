@@ -18,7 +18,11 @@ This is the source code for my personal portfolio website, built to showcase my 
 
 ## 🛠️ Tech Stack
 
-- _Add your tech stack here (e.g., Next.js, React, Tailwind CSS)_
+- React
+- vite
+- Vanilla JS
+- CSS
+- HTML
 
 ## 📂 Getting Started
 
