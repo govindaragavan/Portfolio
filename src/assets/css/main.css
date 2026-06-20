@@ -1223,10 +1223,4 @@ gap: 0rem;
     transition: all 0.3s;
     max-width: 200px;
 } */
-.about-content {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 3rem;
-    align-items: start;
-}
 }
