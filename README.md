@@ -1,16 +1,34 @@
-# React + Vite
+# Govind's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This repository showcases my projects, skills, and experience.
 
-Currently, two official plugins are available:
+<p align="center">
+  <a href="http://govind-eta.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_Go_to_Portfolio-View_Live_Site-blueviolet?style=for-the-badge" alt="Go to Portfolio" />
+  </a>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🔗 Live Site
 
-## React Compiler
+[http://govind-eta.vercel.app/](http://govind-eta.vercel.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 About
 
-## Expanding the ESLint configuration
+This is the source code for my personal portfolio website, built to showcase my work, skills, and contact information.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- _Add your tech stack here (e.g., Next.js, React, Tailwind CSS)_
+
+## 📂 Getting Started
+
+```bash
+git clone <your-repo-url>
+cd <your-repo-folder>
+npm install
+npm run dev
+```
+
+## 📬 Contact
+
+Feel free to reach out via the contact section on the [live site](http://govind-eta.vercel.app/).
