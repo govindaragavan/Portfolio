@@ -1195,7 +1195,6 @@ gap: 0rem;
 
 @media screen  and (max-width : 480px) {
     .nav-content {
-    min-width: 300px;
     width: 100%;
     margin: 0 auto;
     display: flex;
