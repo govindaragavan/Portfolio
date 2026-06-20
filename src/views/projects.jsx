@@ -14,15 +14,10 @@ export default function Projects() {
             
             <div className="project-card fade-in" style={{animationDelay : 0.1}}>
                 <h3>Requestly</h3>
-                <p>A full-stack web application built with React (Light Bootstrap Dashboard) for the frontend and a Node.js/Express server for the backend.</p>
+                <p>A full-stack web helpdesk which can be used to manage and track services and requests ,  built with React (Light Bootstrap Dashboard) for the frontend and a Node.js/Express server for the backend.</p>
                 <a href="https://github.com/govindaragavan/Requestly" className="project-link">view &rarr;</a>
             </div>
             
-            {/* <div className="project-card fade-in" style={{animationDelay : 0.2}}>
-                <h3>🎨 UI/UX Projects</h3>
-                <p>Creative design projects focusing on user experience and modern interface design principles.</p>
-                <a href="#contact" className="project-link">Get Notified &rarr;</a>
-            </div> */}
         </div>
     </section>  );
 }

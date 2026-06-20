@@ -57,7 +57,7 @@ export default function BootScreen() {
             <div className="boot-progress">
                 <div className="boot-progress-bar"></div>
             </div>
-            <p className="boot-footer">Press any key to continue... <span className="boot-sign">— serozr</span></p>
+            <p className="boot-footer">Press any key to continue... <span className="boot-sign">— govind</span></p>
         </div>
     </div>  )
 }
