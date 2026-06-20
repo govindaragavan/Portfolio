@@ -1228,6 +1228,5 @@ gap: 0rem;
     grid-template-columns: 1fr 1fr;
     gap: 3rem;
     align-items: start;
-    min-width: 350px;
 }
 }
