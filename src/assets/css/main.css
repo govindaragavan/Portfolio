@@ -1210,8 +1210,17 @@ gap: 0rem;
     box-shadow: 0 0 30px rgba(0, 255, 140, 0.2);
     width: 100%;
     min-width: 100px;
-    max-width: 200px;
+    max-width: 400px;
     height: auto;
     min-height: 400px;
+}
+.stat-item {
+    text-align: center;
+    padding: 1.5rem;
+    background: rgba(26, 26, 26, 0.8);
+    border: 1px solid rgba(0, 255, 140, 0.3);
+    border-radius: 10px;
+    transition: all 0.3s;
+    max-width: 200px;
 }
 }
