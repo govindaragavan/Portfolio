@@ -1223,8 +1223,11 @@ gap: 0rem;
     transition: all 0.3s;
     max-width: 200px;
 } */
- .about-container {
-    margin-top: 3rem;
-    width: 350px;
+.about-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    align-items: start;
+    min-width: 350px;
 }
 }
