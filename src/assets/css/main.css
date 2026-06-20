@@ -1192,3 +1192,14 @@ gap: 0rem;
         flex-direction: column;
     }
 }
+
+@media screen  and (max-width : 480px) {
+    .nav-content {
+    max-width: 300px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+}
