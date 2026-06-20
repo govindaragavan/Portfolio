@@ -11,7 +11,7 @@ export default function Navbar() {
   return (
         <nav>
         <div className="nav-content">
-            <div className="logo">&gt;_developer.sh <span className="logo-sign">.Govindargavan H</span></div>
+            <div className="logo">&gt;_developer.sh </div>
             <div className={`nav-links${menuOpen ? ' active' : ''}`} id="navLinks">
                 <a href="#about" onClick={closeMenu}>./About</a>
                 <a href="#skills" onClick={closeMenu}>./Skills</a>
