@@ -42,22 +42,22 @@ Passionate developer with experience building modern web applications using Reac
                             <span className="code-title">about.js</span>
                         </div>
                         <div className="code-content">
-<pre><code><span className="code-keyword">const</span> <span className="code-variable">developer</span><span> {"= {"}</span>
-                        <span className="code-property">name</span>: <span className="code-string">"serozr"</span>,
-  <span className="code-property">role</span>: <span className="code-string">"Full Stack Developer"</span>,
-  <span className="code-property">location</span>: <span className="code-string">"Your Location"</span>,
-  <span className="code-property">interests</span>: [
-    <span className="code-string">"Web Development"</span>,
-    <span className="code-string">"UI/UX Design"</span>,
-    <span className="code-string">"Cybersecurity"</span>,
-    <span className="code-string">"Creative Coding"</span>
-  ],
-  <span className="code-property">currentlyLearning</span>: [
-    <span className="code-string">"Advanced React"</span>,
-    <span className="code-string">"Penetration Testing"</span>
-  ],
-    <span className="code-property">funFact</span>: <span className="code-string">"I add small interactive touches to delight users"</span>
-<span>{"};"}</span></code></pre>
+<pre><code><span className="code-keyword">const</span> <span className="code-variable">developer</span><span><br/> {"= {"}<br/></span>
+                        <span className="code-property">name</span>: <span className="code-string">"Govind"</span>,<br/>
+  <span className="code-property">role</span>: <span className="code-string">"Full Stack Developer"</span>,<br/>
+  <span className="code-property">location</span>: <span className="code-string">"Your Location"</span>,<br/>
+  <span className="code-property">interests</span>: [<br/>
+    <span className="code-string">"Web Development"</span>,<br/>
+    <span className="code-string">"UI/UX Design"</span>,<br/>
+    <span className="code-string">"Cybersecurity"</span>,<br/>
+    <span className="code-string">"Creative Coding"</span><br/>
+  ],<br/>
+  <span className="code-property">currentlyLearning</span>: [<br/>
+    <span className="code-string">"Advanced React"</span>,<br/>
+    <span className="code-string">"Penetration Testing"</span><br/>
+  ],<br/>
+    <span className="code-property">funFact</span>: <span className="code-string">"I add small interactive touches to <br/>delight users"</span>
+<span><br/>{"};"}</span></code></pre>
                         </div>
                     </div>
                 </div>
