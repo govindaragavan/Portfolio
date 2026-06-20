@@ -1202,4 +1202,16 @@ gap: 0rem;
     justify-content: space-between;
     align-items: center;
 }
+.code-window {
+    background: rgba(26, 26, 26, 0.8);
+    border: 1px solid rgba(0, 255, 140, 0.3);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 30px rgba(0, 255, 140, 0.2);
+    width: 100%;
+    min-width: 100px;
+    max-width: 200px;
+    height: auto;
+    min-height: 400px;
+}
 }
